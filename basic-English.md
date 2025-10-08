@@ -2,4 +2,4 @@
 
 ## Concepts
 
-### learnig goals
+### Learnig goals
