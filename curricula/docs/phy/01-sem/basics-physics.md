@@ -2,4 +2,8 @@
 
 ## Concepts
 
+###quantum physics
+
+###thermodynamics
+
 ## Learning goals
